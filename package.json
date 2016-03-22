@@ -1,6 +1,6 @@
 {
   "name": "tirefire",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,8 @@
   "license": "ISC",
   "optionalDependencies": {
     "sl-blip": "http://blip.strongloop.com/loopback@3.0.0-alpha.1"
+  },
+  "dependencies": {
+    "left-pad": "0.0.3"
   }
 }
